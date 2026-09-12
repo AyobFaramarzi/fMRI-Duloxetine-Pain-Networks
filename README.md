@@ -1,14 +1,17 @@
- fMRI-Duloxetine-Pain-Networks
- The Effect of Duloxetine on Brain Neural Activity and Pain Processing in Patients with Knee Osteoarthritis: An fMRI-Based Study
+# fMRI-Duloxetine-Pain-Networks
+
+## The Effect of Duloxetine on Brain Neural Activity and Pain Processing in Patients with Knee Osteoarthritis: An fMRI-Based Study
 
 This repository presents a research project investigating the effects of duloxetine on brain neural activity and pain processing in patients with knee osteoarthritis using functional magnetic resonance imaging (fMRI).
 
 The study focused on changes in pain-related brain networks and functional connectivity following duloxetine treatment.
 
- Research Question
+## Research Question
+
 How does duloxetine treatment affect brain neural activity and pain-related functional connectivity in patients with knee osteoarthritis?
 
- Study Focus
+## Study Focus
+
 - Knee osteoarthritis
 - Chronic pain
 - Duloxetine
@@ -19,18 +22,20 @@ How does duloxetine treatment affect brain neural activity and pain-related func
 - Functional connectivity
 - Brain networks
 
- Study Design
+## Study Design
+
 The study included 39 patients with knee osteoarthritis.
 
-Participants received duloxetine or placebo treatment for 12 weeks.
+Participants received duloxetine or placebo treatment for 12 weeks. The duloxetine group received 60 mg/day of duloxetine.
 
-The duloxetine group received 60 mg/day of duloxetine.
 Resting-state fMRI data were acquired using a 3 Tesla Siemens Trio MRI scanner.
 
- fMRI Analysis
+## fMRI Analysis
+
 The fMRI data were analyzed using MATLAB-based neuroimaging tools.
 
 The analysis included:
+
 - Independent Component Analysis (ICA)
 - ROI-to-ROI functional connectivity
 - Graph theory analysis
@@ -39,7 +44,10 @@ The analysis included:
 
 The analysis investigated pain-related brain regions and their functional interactions.
 
-Regions and networks of interest included:
+## Regions and Networks of Interest
+
+The analysis included pain-related regions and networks involving:
+
 - Anterior cingulate cortex (ACC)
 - Thalamus
 - Insular cortex
@@ -50,7 +58,9 @@ Regions and networks of interest included:
 - Dorsolateral prefrontal cortex
 - Secondary somatosensory cortex
 
- Research Workflow
+## Research Workflow
+
+```text
 Knee Osteoarthritis Patients
         ↓
 Duloxetine / Placebo Treatment
@@ -70,23 +80,26 @@ Statistical Testing
 FDR Correction
         ↓
 Pain-Related Brain Network Analysis
+```
 
+## Software and Tools
 
-oftware and Tools
-MATLAB
-SPM12
-CONN
-fMRI
-Independent Component Analysis
-Graph Theory
+- MATLAB
+- SPM12
+- CONN
+- Independent Component Analysis
+- Graph Theory
 
-Publication
+## Publication
+
 Chaghazardi, Y., Faramarzi, A., Dehlaghi, V., Jalalvandi, M., Khodamoradi, E., Yousef Pour, M., & Sharini, H. (2025).
-The Effect of Duloxetine on Brain Neural Activity and Pain Processing in Patients with Knee Osteoarthritis: An fMRI-Based Study.
-Isfahan Medical School Journal, 43(817), 574–581.
 
-Read the article
-Author
-Ayob Faramarzi
+**The Effect of Duloxetine on Brain Neural Activity and Pain Processing in Patients with Knee Osteoarthritis: An fMRI-Based Study.**
+
+*Isfahan Medical School Journal, 43(817), 574–581.*
+
+## Author
+
+**Ayob Faramarzi**
 
 Biomedical Engineering | Neuroimaging | fMRI | MRS | Brain Connectivity | Machine Learning
