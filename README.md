@@ -2,6 +2,10 @@
 
 ## The Effect of Duloxetine on Brain Neural Activity and Pain Processing in Patients with Knee Osteoarthritis: An fMRI-Based Study
 
+![Study summary](figures/research-summary.svg)
+
+*Original visual summary based on the published study.*
+
 This repository presents a research project investigating the effects of duloxetine on brain neural activity and pain processing in patients with knee osteoarthritis using functional magnetic resonance imaging (fMRI).
 
 The study focused on changes in pain-related brain networks and functional connectivity following duloxetine treatment.
@@ -96,11 +100,11 @@ Chaghazardi, Y., Faramarzi, A., Dehlaghi, V., Jalalvandi, M., Khodamoradi, E., Y
 
 **The Effect of Duloxetine on Brain Neural Activity and Pain Processing in Patients with Knee Osteoarthritis: An fMRI-Based Study.**
 
-*Isfahan Medical School Journal, 43(817), 574–581.*
+*Isfahan Medical School Journal, 43*(817), 574–581.
 
-[Read the article](https://jims.mui.ac.ir/article_33018.html)
-
-[DOI: 10.48305/jims.v43.i817.0574](https://doi.org/10.48305/jims.v43.i817.0574)
+- [Read the article](https://jims.mui.ac.ir/article_33018.html)
+- [PDF](https://jims.mui.ac.ir/article_33018_ebf51cc89fabd1246021aa123704d1bd.pdf)
+- [DOI](https://doi.org/10.48305/jims.v43.i817.0574)
 
 ## Author
 
