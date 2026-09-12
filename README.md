@@ -98,8 +98,16 @@ Chaghazardi, Y., Faramarzi, A., Dehlaghi, V., Jalalvandi, M., Khodamoradi, E., Y
 
 *Isfahan Medical School Journal, 43(817), 574–581.*
 
+[Read the article](https://jims.mui.ac.ir/article_33018.html)
+
+[DOI: 10.48305/jims.v43.i817.0574](https://doi.org/10.48305/jims.v43.i817.0574)
+
 ## Author
 
 **Ayob Faramarzi**
 
 Biomedical Engineering | Neuroimaging | fMRI | MRS | Brain Connectivity | Machine Learning
+
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=1uivc_4AAAAJ)
+
+[LinkedIn](https://www.linkedin.com/in/ayob-faramarzi/)
