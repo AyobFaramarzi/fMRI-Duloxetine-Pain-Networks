@@ -2,7 +2,7 @@
 
 ## The Effect of Duloxetine on Brain Neural Activity and Pain Processing in Patients with Knee Osteoarthritis: An fMRI-Based Study
 
-![Study summary](figures/research-summary.svg)
+![Study summary](research-summary.svg)
 
 *Original visual summary based on the published study.*
 
