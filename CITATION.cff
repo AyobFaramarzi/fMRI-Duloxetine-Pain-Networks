@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated publication."
+title: "The Effect of Duloxetine on Brain Neural Activity and Pain Processing in Patients with Knee Osteoarthritis: An fMRI-Based Study"
+authors:
+  - family-names: Chaghazardi
+    given-names: Yazdan
+  - family-names: Faramarzi
+    given-names: Ayob
+  - family-names: Dehlaghi
+    given-names: Vahab
+  - family-names: Jalalvandi
+    given-names: Maziar
+  - family-names: Khodamoradi
+    given-names: Ehsan
+  - family-names: Yousef Pour
+    given-names: Mitra
+  - family-names: Sharini
+    given-names: Hamid
+year: 2025
